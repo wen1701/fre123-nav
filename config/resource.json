@@ -119,7 +119,7 @@
 		"list": [
 			{
 				"name": "动漫搜",
-				"url": "https://www.fre123.com/anime/s?query={keyword}",
+				"url": "https://www.linkssurf.com/anime/s?query={keyword}",
 				"icon": "https://img.fre123.com/i/2023/11/25/65619e8022505.png",
 				"is_show": true
 			},

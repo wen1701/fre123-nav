@@ -8,13 +8,13 @@
 				"tab_name": "新闻热点",
 				"upper_right_corner": {
 					"title": "热榜资讯汇总>>>",
-					"url": "https://www.fre123.com/news"
+					"url": "https://www.linkssurf.com/news"
 				},
 				"details": [
 					{
 						"title": "FRE123 新闻热榜",
-						"ori_url": "https://www.fre123.com/news",
-						"url": "https://www.fre123.com/news",
+						"ori_url": "https://www.linkssurf.com/news",
+						"url": "https://www.linkssurf.com/news",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a0370405.jpg",
 						"description": "FRE123 新闻热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
 						"suffix": false,
@@ -22,8 +22,8 @@
 					},
 					{
 						"title": "FRE123 技术热榜",
-						"ori_url": "https://www.fre123.com/tech",
-						"url": "https://www.fre123.com/tech",
+						"ori_url": "https://www.linkssurf.com/tech",
+						"url": "https://www.linkssurf.com/tech",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a819ea7d80f.jpg",
 						"description": "FRE123 技术热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
 						"suffix": false,
@@ -31,8 +31,8 @@
 					},
 					{
 						"title": "FRE123 精选周刊",
-						"ori_url": "https://www.fre123.com/weekly",
-						"url": "https://www.fre123.com/weekly",
+						"ori_url": "https://www.linkssurf.com/weekly",
+						"url": "https://www.linkssurf.com/weekly",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a125a343.jpg",
 						"description": "这是老胡储物柜为您收集的前后端技术周刊精选推荐信息流。这里提供技术思考、开发指南、编程实践，开源项目，架构探索以及最新的周刊信息流。深耕你的编程知识，提升你的技术实力",
 						"suffix": false,
@@ -41,7 +41,7 @@
 					{
 						"title": "微博热搜",
 						"ori_url": "https://s.weibo.com/top/summary",
-						"url": "https://www.fre123.com/news/weibo",
+						"url": "https://www.linkssurf.com/news/weibo",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
 						"description": "与世界分享你的瞬间 ",
 						"suffix": false,
@@ -50,7 +50,7 @@
 					{
 						"title": "今日头条",
 						"ori_url": "https://www.toutiao.com/",
-						"url": "https://www.fre123.com/news/toutiao",
+						"url": "https://www.linkssurf.com/news/toutiao",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f276c1711f.png",
 						"description": "个性化资讯推荐",
 						"suffix": false,
@@ -59,7 +59,7 @@
 					{
 						"title": "抖音热点",
 						"ori_url": "https://www.douyin.com/hot",
-						"url": "https://www.fre123.com/news/douyin",
+						"url": "https://www.linkssurf.com/news/douyin",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27e4dccaa.png",
 						"description": "发现身边的新鲜事",
 						"suffix": false,
@@ -68,7 +68,7 @@
 					{
 						"title": "腾讯新闻",
 						"ori_url": "https://news.qq.com/",
-						"url": "https://www.fre123.com/news/teng_xun_xin_wen",
+						"url": "https://www.linkssurf.com/news/teng_xun_xin_wen",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2809bfa0f.png",
 						"description": "中国最大新闻平台",
 						"suffix": false,
@@ -77,7 +77,7 @@
 					{
 						"title": "微信热文",
 						"ori_url": "https://tophub.today/n/WnBe01o371",
-						"url": "https://www.fre123.com/news/douywei_xin_re_wenin",
+						"url": "https://www.linkssurf.com/news/douywei_xin_re_wenin",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f469aecf87.png",
 						"description": "热门文章与资讯推荐",
 						"suffix": false,
@@ -86,7 +86,7 @@
 					{
 						"title": "ReadHub",
 						"ori_url": "https://readhub.cn/",
-						"url": "https://www.fre123.com/news/readhub",
+						"url": "https://www.linkssurf.com/news/readhub",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f410bee9c5.png",
 						"description": "全球科技新闻聚合",
 						"suffix": false,
@@ -95,7 +95,7 @@
 					{
 						"title": "抽屉热榜",
 						"ori_url": "https://dig.chouti.com/",
-						"url": "https://www.fre123.com/news/chouti",
+						"url": "https://www.linkssurf.com/news/chouti",
 						"icon": "https://img.fre123.com/i/2023/12/07/65716d24e228f.png",
 						"description": "热门内容，一网打尽",
 						"suffix": false,
@@ -104,7 +104,7 @@
 					{
 						"title": "百度热搜",
 						"ori_url": "https://top.baidu.com/board",
-						"url": "https://www.fre123.com/news/baidu",
+						"url": "https://www.linkssurf.com/news/baidu",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27c6a0285.png",
 						"description": "百度热搜以数亿用户海量的真实数据为基础，通过专业的数据挖掘方法，计算关键词的热搜指数，旨在建立权威、全面、热门、时效的各类关键词排行榜，引领热词阅读时代。",
 						"suffix": false,
@@ -113,7 +113,7 @@
 					{
 						"title": "新浪新闻",
 						"ori_url": "https://www.sina.com.cn/",
-						"url": "https://www.fre123.com/news/xin_lang_xin_wen",
+						"url": "https://www.linkssurf.com/news/xin_lang_xin_wen",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
 						"description": "中文新闻综合门户",
 						"suffix": false,
@@ -122,7 +122,7 @@
 					{
 						"title": "网易热榜",
 						"ori_url": "https://news.163.com/",
-						"url": "https://www.fre123.com/news/163_news",
+						"url": "https://www.linkssurf.com/news/163_news",
 						"icon": "https://img.fre123.com/i/2023/12/07/6570a591763a0.jpg",
 						"description": "新闻与资讯平台",
 						"suffix": false,
@@ -131,7 +131,7 @@
 					{
 						"title": "知乎精选",
 						"ori_url": "https://www.zhihu.com/billboard",
-						"url": "https://www.fre123.com/news/zhihu_jing_xuan",
+						"url": "https://www.linkssurf.com/news/zhihu_jing_xuan",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2f1be65bf.png",
 						"description": "知识问答与热门话题",
 						"suffix": false,
@@ -140,7 +140,7 @@
 					{
 						"title": "哔哩哔哩",
 						"ori_url": "https://www.bilibili.com/v/popular/all/",
-						"url": "https://www.fre123.com/news/bilibili",
+						"url": "https://www.linkssurf.com/news/bilibili",
 						"icon": "https://img.fre123.com/i/2023/12/06/656f51c78c7db.png",
 						"description": "弹幕视频，二次元文化",
 						"suffix": false,
@@ -149,7 +149,7 @@
 					{
 						"title": "36氪",
 						"ori_url": "https://36kr.com/",
-						"url": "https://www.fre123.com/news/36kr",
+						"url": "https://www.linkssurf.com/news/36kr",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27b9ecfcb.png",
 						"description": "创业与科技新闻，洞察商业价值",
 						"suffix": false,
@@ -158,7 +158,7 @@
 					{
 						"title": "爱范儿",
 						"ori_url": "https://www.ifanr.com/",
-						"url": "https://www.fre123.com/news/ifanr",
+						"url": "https://www.linkssurf.com/news/ifanr",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f28335cfd0.png",
 						"description": "科技与数码生活，热爱创新",
 						"suffix": false,
@@ -167,7 +167,7 @@
 					{
 						"title": "IT之家",
 						"ori_url": "https://www.ithome.com/list/",
-						"url": "https://www.fre123.com/news/ithome",
+						"url": "https://www.linkssurf.com/news/ithome",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2746dca0f.png",
 						"description": "科技新闻与评测专家",
 						"suffix": false,
@@ -176,7 +176,7 @@
 					{
 						"title": "澎湃新闻",
 						"ori_url": "https://www.thepaper.cn/",
-						"url": "https://www.fre123.com/news/thepaper",
+						"url": "https://www.linkssurf.com/news/thepaper",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27acb144c.png",
 						"description": "独立、深度、观点",
 						"suffix": false,
@@ -185,7 +185,7 @@
 					{
 						"title": "虎嗅资讯",
 						"ori_url": "https://www.huxiu.com/article/",
-						"url": "https://www.fre123.com/news/huxiu",
+						"url": "https://www.linkssurf.com/news/huxiu",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f277d17855.png",
 						"description": "商业观察与创新洞察",
 						"suffix": false,
@@ -196,14 +196,14 @@
 			{
 				"upper_right_corner": {
 					"title": "技术资讯汇总>>>",
-					"url": "https://www.fre123.com/tech"
+					"url": "https://www.linkssurf.com/tech"
 				},
 				"tab_name": "技术资讯",
 				"details": [
 					{
 						"title": "Hacker News",
 						"ori_url": "https://news.ycombinator.com/",
-						"url": "https://www.fre123.com/tech/ycombinator",
+						"url": "https://www.linkssurf.com/tech/ycombinator",
 						"icon": "https://img.fre123.com/i/2023/12/12/657738fb0da11.png",
 						"description": "程序员和创业者的热门新闻网站",
 						"suffix": false,
@@ -212,7 +212,7 @@
 					{
 						"title": "Github",
 						"ori_url": "https://github.com/trending",
-						"url": "https://www.fre123.com/tech/github_trending",
+						"url": "https://www.linkssurf.com/tech/github_trending",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773615a03a5.png",
 						"description": "全球最大的代码托管平台，共享开源项目",
 						"suffix": false,
@@ -221,7 +221,7 @@
 					{
 						"title": "Stack Overflow",
 						"ori_url": "https://stackoverflow.com/",
-						"url": "https://www.fre123.com/tech/stackoverflow",
+						"url": "https://www.linkssurf.com/tech/stackoverflow",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773ed583ad3.png",
 						"description": "开发者问答社区，解决编程难题",
 						"suffix": false,
@@ -230,7 +230,7 @@
 					{
 						"title": "V2EX",
 						"ori_url": "https://www.v2ex.com/?tab=hot",
-						"url": "https://www.fre123.com/tech/v2ex",
+						"url": "https://www.linkssurf.com/tech/v2ex",
 						"icon": "https://img.fre123.com/i/2023/12/12/657733214ec3f.png",
 						"description": "程序员社区，分享与讨论",
 						"suffix": false,
@@ -239,7 +239,7 @@
 					{
 						"title": "DEV",
 						"ori_url": "https://dev.to/",
-						"url": "https://www.fre123.com/tech/dev_to",
+						"url": "https://www.linkssurf.com/tech/dev_to",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773605a7d3f.png",
 						"description": "开发者社区，探索编程世界",
 						"suffix": false,
@@ -248,7 +248,7 @@
 					{
 						"title": "掘金",
 						"ori_url": "https://juejin.cn/hot/articles",
-						"url": "https://www.fre123.com/tech/juejin_trending_all_weekly",
+						"url": "https://www.linkssurf.com/tech/juejin_trending_all_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/12/6577329c73a89.png",
 						"description": "技术社区，发现优质内容",
 						"suffix": false,
@@ -257,7 +257,7 @@
 					{
 						"title": "博客园",
 						"ori_url": "https://www.cnblogs.com/aggsite/topviews",
-						"url": "https://www.fre123.com/tech/cnblogs_topviews",
+						"url": "https://www.linkssurf.com/tech/cnblogs_topviews",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773305be49d.png",
 						"description": "程序员社区，知识交流平台",
 						"suffix": false,
@@ -266,7 +266,7 @@
 					{
 						"title": "CSDN",
 						"ori_url": "https://blog.csdn.net/rank/list",
-						"url": "https://www.fre123.com/tech/csdnnews",
+						"url": "https://www.linkssurf.com/tech/csdnnews",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773339badda.png",
 						"description": "IT技术社区，知识传播平台",
 						"suffix": false,
@@ -275,7 +275,7 @@
 					{
 						"title": "开源中国",
 						"ori_url": "https://www.oschina.net/news",
-						"url": "https://www.fre123.com/tech/oschina_news",
+						"url": "https://www.linkssurf.com/tech/oschina_news",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773357604e7.png",
 						"description": "开源技术社区，共享创新精神",
 						"suffix": false,
@@ -284,7 +284,7 @@
 					{
 						"title": "Segmentfault",
 						"ori_url": "https://segmentfault.com/news",
-						"url": "https://www.fre123.com/tech/segmentfault_news",
+						"url": "https://www.linkssurf.com/tech/segmentfault_news",
 						"icon": "https://img.fre123.com/i/2023/12/12/6577354f59e5d.png",
 						"description": "开发者问答社区，解决问题互助",
 						"suffix": false,
@@ -293,7 +293,7 @@
 					{
 						"title": "InfoQ",
 						"ori_url": "https://www.infoq.cn/",
-						"url": "https://www.fre123.com/tech/infoq",
+						"url": "https://www.linkssurf.com/tech/infoq",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773588b7b52.png",
 						"description": "技术资讯平台，深度洞察行业动态",
 						"suffix": false,
@@ -302,7 +302,7 @@
 					{
 						"title": "机器之心",
 						"ori_url": "https://www.jiqizhixin.com/",
-						"url": "https://www.fre123.com/tech/jiqizhixin",
+						"url": "https://www.linkssurf.com/tech/jiqizhixin",
 						"icon": "https://img.fre123.com/i/2023/12/12/657741a779223.png",
 						"description": "人工智能科技媒体，探索智能世界",
 						"suffix": false,
@@ -311,7 +311,7 @@
 					{
 						"title": "量子位",
 						"ori_url": "https://www.qbitai.com/category/%e8%b5%84%e8%ae%af",
-						"url": "https://www.fre123.com/tech/qbitai",
+						"url": "https://www.linkssurf.com/tech/qbitai",
 						"icon": "https://img.fre123.com/i/2023/12/12/6577368408291.png",
 						"description": "科技资讯平台，前沿科技动态解读",
 						"suffix": false,
@@ -320,7 +320,7 @@
 					{
 						"title": "湾区日报",
 						"ori_url": "https://www.wanqu.co/",
-						"url": "https://www.fre123.com/tech/wanqu",
+						"url": "https://www.linkssurf.com/tech/wanqu",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773eb7cded4.png",
 						"description": "科技创新资讯，关注湾区科技动态",
 						"suffix": false,
@@ -329,7 +329,7 @@
 					{
 						"title": "小众软件",
 						"ori_url": "https://www.appinn.com/",
-						"url": "https://www.fre123.com/tech/appinn",
+						"url": "https://www.linkssurf.com/tech/appinn",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773dd163b37.jpeg",
 						"description": "探索独特应用，发现小众精品软件",
 						"suffix": false,
@@ -340,13 +340,13 @@
 			{
 				"upper_right_corner": {
 					"title": "精选周刊大全>>>",
-					"url": "https://www.fre123.com/weekly"
+					"url": "https://www.linkssurf.com/weekly"
 				},
 				"tab_name": "技术周刊",
 				"details": [
 					{
 						"title": "阮一峰的周刊",
-						"url": "https://www.fre123.com/weekly/ruanyifeng_weekly",
+						"url": "https://www.linkssurf.com/weekly/ruanyifeng_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/07/6570a316b2e86.jpeg",
 						"description": "这里记录每周值得分享的科技内容，周五发布",
 						"suffix": true,
@@ -354,7 +354,7 @@
 					},
 					{
 						"title": "老胡的信息周刊",
-						"url": "https://www.fre123.com/weekly/howie6879_weekly",
+						"url": "https://www.linkssurf.com/weekly/howie6879_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/07/6570a33fcae2f.jpeg",
 						"description": "记录老胡每周看到的优质资源，包含项目、软件、资料、网站",
 						"suffix": true,
@@ -362,7 +362,7 @@
 					},
 					{
 						"title": "HelloGitHub",
-						"url": "https://www.fre123.com/weekly/hellogithub",
+						"url": "https://www.linkssurf.com/weekly/hellogithub",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f22c38002e.png",
 						"description": "「HelloGitHub 月刊」分享 GitHub 上有趣、入门级的开源项目，每月 28 号发布最新一期",
 						"suffix": true,
@@ -370,7 +370,7 @@
 					},
 					{
 						"title": "独立开发变现周刊",
-						"url": "https://www.fre123.com/weekly/ezindie",
+						"url": "https://www.linkssurf.com/weekly/ezindie",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f421fa8770.png",
 						"description": "独立开发变现相关的技术、工具、交流等，彼此促进成长，快速落地各自的产品，实现持续盈利",
 						"suffix": true,
@@ -378,7 +378,7 @@
 					},
 					{
 						"title": "二丫讲梵",
-						"url": "https://www.fre123.com/weekly/eryajf",
+						"url": "https://www.linkssurf.com/weekly/eryajf",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f225463402.png",
 						"description": "周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验",
 						"suffix": true,
@@ -386,7 +386,7 @@
 					},
 					{
 						"title": "AIGC Weekly",
-						"url": "https://www.fre123.com/weekly/aigc_weekly",
+						"url": "https://www.linkssurf.com/weekly/aigc_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f1e30d4262.ico",
 						"description": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
 						"suffix": true,
@@ -394,7 +394,7 @@
 					},
 					{
 						"title": "小棉袄的百味人生",
-						"url": "https://www.fre123.com/weekly/haikuoshijie",
+						"url": "https://www.linkssurf.com/weekly/haikuoshijie",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f25ba8b44f.png",
 						"description": "小棉袄的博客，嗅觉浏览器、海阔视界开发者的博客",
 						"suffix": true,
@@ -402,7 +402,7 @@
 					},
 					{
 						"title": "不死鸟月刊分享",
-						"url": "https://www.fre123.com/weekly/businiaofenxiang",
+						"url": "https://www.linkssurf.com/weekly/businiaofenxiang",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f21aa7baaf.png",
 						"description": "分享为王",
 						"suffix": true,
@@ -410,7 +410,7 @@
 					},
 					{
 						"title": "1Link.Fun",
-						"url": "https://www.fre123.com/weekly/1link_fun",
+						"url": "https://www.linkssurf.com/weekly/1link_fun",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f20f645b6e.png",
 						"description": "1Link.Fun 科技周刊，每周更新 10 条有趣的链接",
 						"suffix": true,
@@ -418,7 +418,7 @@
 					},
 					{
 						"title": "Go语言爱好者周刊",
-						"url": "https://www.fre123.com/weekly/studygolang",
+						"url": "https://www.linkssurf.com/weekly/studygolang",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f227ae1a30.png",
 						"description": "记录每周值得分享的 Go 语言相关内容，周日发布",
 						"suffix": true,
@@ -427,7 +427,7 @@
 
 					{
 						"title": "破茧日报",
-						"url": "https://www.fre123.com/weekly/guozh",
+						"url": "https://www.linkssurf.com/weekly/guozh",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2385d1ec1.jpeg",
 						"description": "破茧日报，老郭种树",
 						"suffix": true,
@@ -435,7 +435,7 @@
 					},
 					{
 						"title": "老司机 iOS 周报",
-						"url": "https://www.fre123.com/weekly/lao_si_ji_ios_zhou_kan",
+						"url": "https://www.linkssurf.com/weekly/lao_si_ji_ios_zhou_kan",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f228744f01.png",
 						"description": "对于 iOS 开发者有价值的信息",
 						"suffix": true,
@@ -443,7 +443,7 @@
 					},
 					{
 						"title": "MDH 前端周刊",
-						"url": "https://www.fre123.com/weekly/mdh_weekly",
+						"url": "https://www.linkssurf.com/weekly/mdh_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f234394894.png",
 						"description": "前端技术周刊",
 						"suffix": true,
@@ -452,7 +452,7 @@
 
 					{
 						"title": "Python 潮流周刊",
-						"url": "https://www.fre123.com/weekly/pythoncat_weekly",
+						"url": "https://www.linkssurf.com/weekly/pythoncat_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f23ae79f38.png",
 						"description": "Python技术周刊",
 						"suffix": true,
@@ -460,7 +460,7 @@
 					},
 					{
 						"title": "Web 技术周刊",
-						"url": "https://www.fre123.com/weekly/fe_weekly",
+						"url": "https://www.linkssurf.com/weekly/fe_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2543dff40.png",
 						"description": "汇总平时看到的好文章，前端技术 & 产品研发为主",
 						"suffix": true,
@@ -1025,12 +1025,12 @@
 				"tab_name": "番剧资源",
 				"upper_right_corner": {
 					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					"url": "https://www.linkssurf.com/anime/s"
 				},
 				"details": [
 					{
 						"title": "FRE123 动漫搜索引擎",
-						"url": "https://www.fre123.com/anime/s",
+						"url": "https://www.linkssurf.com/anime/s",
 						"icon": "https://img.fre123.com/i/2023/11/25/65619e8022505.png",
 						"description": "FRE123 动漫搜索引擎为您提供各类动漫番剧在线观看下载资源，追番找动漫必备工具，还为您提供最新番剧时间表，直接搜索关键词即可找到对应的漫画番剧播放源。",
 						"suffix": true,
@@ -1253,7 +1253,7 @@
 				"tab_name": "番剧下载",
 				"upper_right_corner": {
 					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					"url": "https://www.linkssurf.com/anime/s"
 				},
 				"details": [
 					{
@@ -1350,7 +1350,7 @@
 				"tab_name": "漫画阅读",
 				"upper_right_corner": {
 					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					"url": "https://www.linkssurf.com/anime/s"
 				},
 				"details": [
 					{
@@ -1609,7 +1609,7 @@
 				"tab_name": "动漫资讯",
 				"upper_right_corner": {
 					"title": "🔥FRE123动漫搜索引擎>>>",
-					"url": "https://www.fre123.com/anime/s"
+					"url": "https://www.linkssurf.com/anime/s"
 				},
 				"details": [
 					{
@@ -1638,7 +1638,7 @@
 					},
 					{
 						"title": "FRE123 2024年01月冬季新番表",
-						"url": "https://www.fre123.com/anime/s",
+						"url": "https://www.linkssurf.com/anime/s",
 						"icon": "https://img.fre123.com/i/2023/11/25/65619e8022505.png",
 						"description": "FRE123 动漫搜索引擎为您提供各类动漫番剧在线观看下载资源，追番找动漫必备工具，还为您提供2024最新番剧时间表，直接搜索关键词即可找到对应的漫画番剧播放源。",
 						"suffix": true,
@@ -2129,7 +2129,7 @@
 				"details": [
 					{
 						"title": "苹果专区",
-						"url": "https://www.fre123.com/#软件工具_苹果专区",
+						"url": "https://www.linkssurf.com/#软件工具_苹果专区",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6b6e043b45.ico",
 						"description": "MacOS 软件下载网站大全，持续更新！",
 						"suffix": false,
@@ -2137,7 +2137,7 @@
 					},
 					{
 						"title": "微软专区",
-						"url": "https://www.fre123.com/#软件工具_微软专区",
+						"url": "https://www.linkssurf.com/#软件工具_微软专区",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6b70ea384c.ico",
 						"description": "Windows 软件下载网站大全，持续更新！",
 						"suffix": false,
