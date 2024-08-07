@@ -1,10 +1,10 @@
 <template>
 	<div class="w-full bg-white sticky top-0 z-[110]">
 		<div
-			id="fre123-header"
+			id="LinksSurf-header"
 			class="header-transition m-auto flex border-b-2 border-b-gray-50 md:px-[20px] py-[10px]"
 		>
-			<div class="flex md:basis-1/3 relative">
+			<div class="relative flex md:basis-1/3">
 				<a :href="baseInfo['web_host']" target="_blank">
 					<img class="header-logo header-transition ml-[20px]" :src="baseInfo['logo']" alt="" />
 				</a>
@@ -19,12 +19,12 @@
 
 			<div
 				v-show="showSearch"
-				class="flex-grow hidden md:flex items-center justify-center cursor-pointer"
+				class="items-center justify-center flex-grow hidden cursor-pointer md:flex"
 			>
 				<IndexSearch> </IndexSearch>
 			</div>
-			<div class="cursor-pointer hidden md:flex basis-1/3 items-center justify-end">
-				<div v-if="headerConfig.right.is_show" class="flex justify-end flex-grow relative">
+			<div class="items-center justify-end hidden cursor-pointer md:flex basis-1/3">
+				<div v-if="headerConfig.right.is_show" class="relative flex justify-end flex-grow">
 					<div
 						class="px-3 flex items-center justify-end header-transition md:text-[16px] text-[#333333] p-2"
 						@mouseover="showCategory(true)"
@@ -34,7 +34,7 @@
 							v-if="headerConfig.right?.group?.name"
 							:href="headerConfig.right?.group?.url"
 							target="_blank"
-							class="px-3 bg-opacity-50 transition-bg-hover-200 cursor-pointer"
+							class="px-3 bg-opacity-50 cursor-pointer transition-bg-hover-200"
 							>{{ headerConfig.right?.group?.name }}</a
 						>
 						<div
@@ -48,7 +48,7 @@
 							<ul class="">
 								<li
 									v-for="item in headerConfig.right?.group?.children"
-									class="px-3 transition-bg-hover-200 cursor-pointer"
+									class="px-3 cursor-pointer transition-bg-hover-200"
 								>
 									<a :href="item.url" target="_blank">{{ item.name }}</a>
 								</li>
@@ -79,7 +79,7 @@ withDefaults(
 
 // 控制头部变化
 const headerAnimation = (action: string) => {
-	const headerDom = document.getElementById('fre123-header')
+	const headerDom = document.getElementById('LinksSurf-header')
 	const searchDom = document.getElementById('resource-menu')
 	if (headerDom) {
 		if (action == 'smaller') {
@@ -101,7 +101,7 @@ defineExpose({ headerAnimation })
 </script>
 
 <style scoped>
-#fre123-header {
+#LinksSurf-header {
 	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07);
 }
 .header-transition {

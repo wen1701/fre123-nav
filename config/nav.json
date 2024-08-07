@@ -12,25 +12,25 @@
 				},
 				"details": [
 					{
-						"title": "FRE123 新闻热榜",
+						"title": "LinksSurf 新闻热榜",
 						"ori_url": "https://www.linkssurf.com/news",
 						"url": "https://www.linkssurf.com/news",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a0370405.jpg",
-						"description": "FRE123 新闻热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
+						"description": "LinksSurf 新闻热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "FRE123 技术热榜",
+						"title": "LinksSurf 技术热榜",
 						"ori_url": "https://www.linkssurf.com/tech",
 						"url": "https://www.linkssurf.com/tech",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a819ea7d80f.jpg",
-						"description": "FRE123 技术热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
+						"description": "LinksSurf 技术热榜汇集各平台技术热点资讯，助您快速了解实时资讯",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "FRE123 精选周刊",
+						"title": "LinksSurf 精选周刊",
 						"ori_url": "https://www.linkssurf.com/weekly",
 						"url": "https://www.linkssurf.com/weekly",
 						"icon": "https://img.fre123.com/i/2024/01/18/65a81a125a343.jpg",

@@ -5,7 +5,7 @@
 		class="index-nav-group bg-white pt-[10px] mb-[20px] px-4 rounded-lg"
 	>
 		<div class="flex flex-row pl-[5px] pt-[8px] leading-[28px] overflow-x-scroll no-scrollbar">
-			<h4 class="text-gray-500 text-md md:text-lg flex">
+			<h4 class="flex text-gray-500 text-md md:text-lg">
 				<span class="text-[16px] md:text-[18px] text-[#555555] pr-2 font-semibold truncate">{{
 					groupData.group_name
 				}}</span>
@@ -79,7 +79,7 @@
 					<div
 						v-if="item.ori_url"
 						:id="`to-source-icon-${idx}-${t}`"
-						class="hidden h-full items-center"
+						class="items-center hidden h-full"
 						@click.stop="stop"
 						@click="jumpOut(item.ori_url)"
 					>
@@ -174,7 +174,7 @@ const showToSourceIcon = (type: string, idx: number, t: number) => {
 }
 
 const jumpOut = (url: string) => {
-	window.open(url + '?ref=https://www.fre123.com', '_blank')
+	window.open(url + '?ref=https://www.LinksSurf.com', '_blank')
 }
 
 const stop = ($event) => {

@@ -1,7 +1,7 @@
 import resourceConfig from '~/config/resource.json'
 
 const useResourceStore = defineStore(
-	'fre123_search',
+	'linkssurf_search',
 	() => {
 		const searchOrder = ref<Record<string, string[]>>({})
 
