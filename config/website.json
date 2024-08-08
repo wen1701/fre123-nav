@@ -2,7 +2,7 @@
 	"base": {
 		"app_name": "LinksSurf",
 		"web_host": "https://www.linkssurf.com",
-		"logo": "/fre/assets/img/LinksSurf.png"
+		"logo": "https://img.linkssurf.com/LinksSurf.png"
 	},
 	"seo": {
 		"title": "LinksSurf 免费资源共享平台",
