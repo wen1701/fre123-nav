@@ -1,14 +1,16 @@
+import { url } from 'inspector'
 import path from 'path'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
 	modules: [
-		'@nuxtjs/tailwindcss',
-		'@pinia/nuxt',
-		'@vueuse/nuxt',
-		'nuxt-icon',
-		'@pinia-plugin-persistedstate/nuxt',
-	],
+        '@nuxtjs/tailwindcss',
+        '@pinia/nuxt',
+        '@vueuse/nuxt',
+        'nuxt-icon',
+        '@pinia-plugin-persistedstate/nuxt',
+        "@nuxtjs/sitemap"
+    ],
 	pinia: {
 		autoImports: ['defineStore', 'storeToRefs'],
 	},
@@ -71,6 +73,23 @@ export default defineNuxtConfig({
 			'@fortawesome/pro-regular-svg-icons',
 			'@fortawesome/free-brands-svg-icons',
 		],
+	},
+	site:{
+		url:'https://www.linkssurf.com',
+		name: 'LinksSurf 优质资源导航'
+	},
+	// sitemap:{
+	// 	sources: [
+	// 		'/api/sitemap-urls'
+	// 	],
+
+	// },
+	routeRules: {
+		// Don't add any /secret/** URLs to the sitemap.xml
+		// modify the sitemap.xml entry for specific URLs
+		'/news': { sitemap: { changefreq: 'daily', priority: 0.3 } },
+		'/weekly': { sitemap: { changefreq: 'daily', priority: 0.3 } },
+		'/tech': { sitemap: { changefreq: 'daily', priority: 0.3 } }
 	},
 
 	devtools: { enabled: process.env.NODE_ENV === 'development' ? true : false },
