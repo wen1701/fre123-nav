@@ -53,7 +53,7 @@ const showToolTip = (e: Event) => {
 		if (wordW > containerW) {
 			tooltipVisible.value = true
 		}
-		console.log('containerWidth', containerW, 'wordWidth', wordW)
+		//console.log('containerWidth', containerW, 'wordWidth', wordW)
 	}
 }
 </script>

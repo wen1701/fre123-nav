@@ -12,7 +12,8 @@
 		"@nuxt/devtools": "latest",
 		"@types/node": "^18.16.19",
 		"nuxt": "^3.6.2",
-		"sass": "^1.63.6"
+		"sass": "^1.63.6",
+		"sitemap": "^8.0.0"
 	},
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "6.5.0",
@@ -21,12 +22,12 @@
 		"@fortawesome/free-solid-svg-icons": "5.15.4",
 		"@fortawesome/vue-fontawesome": "3.0.5",
 		"@nuxtjs/tailwindcss": "6.10.1",
+		"@pinia-plugin-persistedstate/nuxt": "1.2.0",
 		"@pinia/nuxt": "0.4.11",
 		"@vueuse/core": "10.7.0",
 		"@vueuse/nuxt": "10.7.0",
 		"nuxt-icon": "0.6.7",
 		"ohmyfetch": "0.4.21",
-		"@pinia-plugin-persistedstate/nuxt": "1.2.0",
 		"yarn": "1.22.21"
 	}
 }

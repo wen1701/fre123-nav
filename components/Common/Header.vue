@@ -4,17 +4,17 @@
 			id="LinksSurf-header"
 			class="header-transition m-auto flex border-b-2 border-b-gray-50 md:px-[20px] py-[10px]"
 		>
-			<div class="relative flex md:basis-1/3">
+			<div class="relative flex items-center justify-center md:basis-1/3">
 				<a :href="baseInfo['web_host']" target="_blank">
 					<img class="header-logo header-transition ml-[20px]" :src="baseInfo['logo']" alt="" />
 				</a>
-				<a
+				<!-- <a
 					:href="baseInfo['web_host']"
 					target="_blank"
 					class="header-text header-transition ml-[10px] leading-[80px] md:text-[22px] text-[#333]"
 				>
 					{{ baseInfo['app_name'] }}
-				</a>
+				</a> -->
 			</div>
 
 			<div
@@ -109,8 +109,8 @@ defineExpose({ headerAnimation })
 }
 
 .header-logo {
-	width: 80px;
-	height: 80px;
+	width: 160px;
+	height: 40px;
 }
 
 .header-logo:hover {
@@ -125,13 +125,13 @@ defineExpose({ headerAnimation })
 }
 
 .custom-size img {
-	width: 60px;
-	height: 60px;
+	width: 120px;
+	height: 50px;
 }
 
 .custom-size .header-text {
-	height: 60px;
-	line-height: 60px;
+	height: 40px;
+	line-height: 40px;
 	font-size: 22px;
 }
 </style>

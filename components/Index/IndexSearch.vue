@@ -1,5 +1,5 @@
 <template>
-	<div class="w-full flex items-center justify-center flex-col">
+	<div class="flex flex-col items-center justify-center w-full">
 		<ul class="flex py-2 pl-[4rem] w-full text-sm relative" id="resource-menu">
 			<li id="search_tab_anchor" class="anchor text-[14px] h-full"></li>
 			<li
@@ -12,17 +12,17 @@
 				@click="switchResource(i, item.name)"
 			>
 				<img v-if="item.icon" :src="item.icon" alt="" class="w-[12px] h-[12px]" />
-				<div class="ml-1 hidden lg:block">{{ item.name }}</div>
+				<div class="hidden ml-1 lg:block">{{ item.name }}</div>
 			</li>
 		</ul>
 
-		<div class="w-full flex mt-1 rounded-md pr-2 bg-slate-100 items-center cursor-pointer">
+		<div class="flex items-center w-full pr-2 mt-1 rounded-md cursor-pointer bg-slate-100">
 			<div
 				class="flex items-center min-w-[4rem] cursor-pointer relative hover:bg-[rgba(226,232,240,0.3)] rounded-t-md"
 				@mouseover="showResourceList = true"
 				@mouseleave="showResourceList = false"
 			>
-				<span class="text-center py-2 w-full"> {{ currResourceType?.name }} </span>
+				<span class="w-full py-2 text-center"> {{ currResourceType?.name }} </span>
 				<ul
 					class="absolute top-[40px] left-0 min-w-[4rem] truncate transition-all duration-500 flex-col shadow-lg rounded-b-md z-[1000] bg-gray-50"
 					:class="`${showResourceList ? 'opacity-100 h-auto  rounded-b-none' : 'opacity-0 h-0'}`"
@@ -36,7 +36,7 @@
 					</li>
 				</ul>
 			</div>
-			<div class="h-full relative flex-grow">
+			<div class="relative flex-grow h-full">
 				<input
 					class="w-full lg:min-w-[600px] bg-slate-100 h-6 px-2 py-1 border-l-[2px] border-l-slate-200 focus:outline-none"
 					type="text"
