@@ -1,11 +1,11 @@
 <template>
 	<div
-		v-if="pendantConfig.is_show"
 		id="navbar-pendant"
-		class="z-50 fixed right-[10px] opacity-90 top-[60%]"
+		class="z-50 fixed right-[32px] opacity-90 top-[90%]"
 	>
 		<ul>
 			<li
+				v-if="pendantConfig.is_show"
 				v-for="(item, i) in pendantConfig.list"
 				class="navbar-icon-style"
 				:style="{
@@ -31,7 +31,7 @@
 					<p
 						v-else-if="!item?.img && item?.text"
 						:class="`${hoverIdx === i ? 'block' : 'hidden'}`"
-						class="hover-p w-auto"
+						class="w-auto hover-p"
 					>
 						{{ item.text }}
 					</p>
@@ -41,7 +41,7 @@
 				<li
 					v-show="showToTopIcon"
 					id="toTopIcon"
-					class="navbar-icon-style text-slate-200 hover:text-white cursor-pointer"
+					class="cursor-pointer navbar-icon-style text-slate-200 hover:text-white"
 					@click="scrollToTop()"
 				>
 					<!-- <IconsToTop></IconsToTop> -->
@@ -50,6 +50,7 @@
 			</transition>
 		</ul>
 	</div>
+
 </template>
 
 <script setup lang="ts">

@@ -12,8 +12,8 @@ const headerRef = ref()
 
 const scrollListenerHandler = () => {
 	const wrapTop = document.getElementById('wrap')?.getBoundingClientRect().top || 0
-	console.log("WrapTop =>",wrapTop)
-	if (wrapTop < 70) {
+
+	if (wrapTop < 75) {
 		headerRef.value.headerAnimation('smaller')
 	} else {
 		headerRef.value.headerAnimation('larger')

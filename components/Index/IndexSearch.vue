@@ -1,6 +1,6 @@
 <template>
 	<div class="flex flex-col items-center justify-center w-full">
-		<ul class="flex py-2 pl-[4rem] w-full text-sm relative" id="resource-menu">
+		<ul class="relative flex w-full py-2 text-sm" id="resource-menu">
 			<li id="search_tab_anchor" class="anchor text-[14px] h-full"></li>
 			<li
 				:id="`search_tab_${i}`"
@@ -149,7 +149,7 @@ const slideTo = (idx: number) => {
 		if (anchor != null) {
 			anchor.style.width = 20 + 'px'
 			anchor.style.transitionDuration = '0.3s'
-			anchor.style.transform = `translateX(${(w - 20) / 2 + offsetLeft - 64}px)`
+			anchor.style.transform = `translateX(${(w - 20) / 2 + offsetLeft}px)`
 		}
 	}
 }

@@ -3,8 +3,7 @@
 		<section class="flex justify-center">
 			<!-- Left -->
 			<div class="text-[14px] h-[30px]">
-				<span
-					>Powered by
+				<span>©2024 {{baseInfo['app_name']}} - {{ baseInfo['support'] }} | Powered by
 					<a
 						href="https://www.fre123.com"
 						target="_blank"
@@ -34,8 +33,8 @@
 </template>
 
 <script setup lang="ts">
-import { CONFIG_KEY_FOOTER, getConfigItem } from '~/stores/config'
-
+import { CONFIG_KEY_BASE, CONFIG_KEY_FOOTER, getConfigItem } from '~/stores/config'
+const baseInfo = getConfigItem(CONFIG_KEY_BASE)
 const footerConfig = getConfigItem(CONFIG_KEY_FOOTER)
 </script>
 

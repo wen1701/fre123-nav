@@ -4,6 +4,12 @@
 		"is_show": true,
 		"list": [
 			{
+				"name": "searxng",
+				"url": "https://searxng.purrtides.com/search?q={keyword}",
+				"icon": "https://img.linkssurf.com/searxng.png",
+				"is_show": true
+			},
+			{
 				"name": "谷歌",
 				"url": "https://google.com/search?igu=1&q={keyword}",
 				"icon": "https://img.fre123.com/i/2023/11/26/6563038539819.png",
@@ -13,12 +19,6 @@
 				"name": "必应",
 				"url": "https://cn.bing.com/search?q={keyword}",
 				"icon": "https://img.fre123.com/i/2023/11/26/65630386088eb.png",
-				"is_show": true
-			},
-			{
-				"name": "百度",
-				"url": "https://www.baidu.com/s?wd={keyword}",
-				"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
 				"is_show": true
 			},
 			{

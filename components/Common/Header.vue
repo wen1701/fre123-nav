@@ -6,15 +6,15 @@
 		>
 			<div class="relative flex items-center justify-center md:basis-1/3">
 				<a :href="baseInfo['web_host']" target="_blank">
-					<img class="header-logo header-transition ml-[20px]" :src="baseInfo['logo']" alt="" />
+					<img class="header-logo header-transition" :src="baseInfo['logo']" alt="" />
 				</a>
-				<!-- <a
+				<a
 					:href="baseInfo['web_host']"
 					target="_blank"
-					class="header-text header-transition ml-[10px] leading-[80px] md:text-[22px] text-[#333]"
+					class="header-text header-transition ml-[20px] leading-[80px] md:text-[32px] text-[#333]"
 				>
 					{{ baseInfo['app_name'] }}
-				</a> -->
+				</a>
 			</div>
 
 			<div
@@ -109,8 +109,9 @@ defineExpose({ headerAnimation })
 }
 
 .header-logo {
-	width: 160px;
-	height: 40px;
+	width: 80px;
+	height: 80px;
+	padding: 10px;
 }
 
 .header-logo:hover {
@@ -125,13 +126,13 @@ defineExpose({ headerAnimation })
 }
 
 .custom-size img {
-	width: 120px;
-	height: 50px;
+	width: 60px;
+	height: 60px;
 }
 
 .custom-size .header-text {
-	height: 40px;
-	line-height: 40px;
+	height: 60px;
+	line-height: 60px;
 	font-size: 22px;
 }
 </style>

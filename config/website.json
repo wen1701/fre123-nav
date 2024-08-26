@@ -2,7 +2,8 @@
 	"base": {
 		"app_name": "LinksSurf",
 		"web_host": "https://www.linkssurf.com",
-		"logo": "https://img.linkssurf.com/LinksSurf.png"
+		"logo": "https://img.linkssurf.com/logo.png",
+		"support":"support@LinksSurf.com"
 	},
 	"seo": {
 		"title": "LinksSurf 免费资源共享平台",
@@ -57,7 +58,7 @@
 		}
 	},
 	"pendant": {
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"icon_class": "fab fa-weixin",
@@ -90,7 +91,7 @@
 	},
 	"footer": {
 		"right": {
-			"is_show": true,
+			"is_show": false,
 			"list": [
 				{
 					"icon_class": "fas fa-comment-dots",
