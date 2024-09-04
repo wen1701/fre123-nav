@@ -39,6 +39,15 @@
 						"is_show": true
 					},
 					{
+						"title": "LinksSurf 小报童精选专栏",
+						"ori_url": "https://xiaobot.linkssurf.com",
+						"url": "https://xiaobot.linkssurf.com",
+						"icon": "https://img.linkssurf.com/logo.png",
+						"description": "精选的小报童专栏导航",
+						"suffix": false,
+						"is_show": true
+					},
+					{
 						"title": "微博热搜",
 						"ori_url": "https://s.weibo.com/top/summary",
 						"url": "https://www.linkssurf.com/news/weibo",
