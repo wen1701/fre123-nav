@@ -78,6 +78,9 @@ export default defineNuxtConfig({
 		url:'https://www.linkssurf.com',
 		name: 'LinksSurf 优质资源导航'
 	},
+	plugins: [
+		"~/plugins/gtag.client.ts"
+	],
 	// sitemap:{
 	// 	sources: [
 	// 		'/api/sitemap-urls'
